@@ -27,15 +27,15 @@ Live link here https://blitzbomber87.github.io/Task-Board/
 
 Home page where you select "Add Task" to add a new task
 
-![homepage]
+![homepage](https://github.com/user-attachments/assets/36cd5eaa-a0bc-42a1-8ef7-9d0cec4da251)
 
 The add task modal.
 
-![modal]
+![modal](https://github.com/user-attachments/assets/7f725005-7b44-49d8-929e-1b48d51cddfa)
 
 Track your tasks progress my moving it to different sections.
 
-![tasks]
+![tasks](https://github.com/user-attachments/assets/4de79dd9-47f1-4cd6-acf6-17c7d57bd2f8)
 
 ## Credits
 Eli - https://github.com/blitzbomber87
